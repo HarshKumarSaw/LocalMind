@@ -3,10 +3,6 @@
 </p>
 
 ---
-sdk: docker
-title: LocalMind
-short_description: Lightweight AI-powered chatbot API – self-hosted and free
----
 🤖 TinyLlama Chatbot API
 
 A lightweight chatbot API powered by TinyLlama-1.1B-Chat, deployed for free using Hugging Face Spaces.
