@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="thumbnail.png" alt="LocalMind Thumbnail" width="100%" />
+  <img src="assets/thumbnail.png" alt="LocalMind Thumbnail" width="100%" />
 </p>
 
 ---
