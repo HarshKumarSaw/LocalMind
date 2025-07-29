@@ -2,8 +2,6 @@
 sdk: docker
 title: LocalMind
 short_description: Lightweight AI-powered chatbot API – self-hosted and free
-thumbnail: >-
-  https://cdn-uploads.huggingface.co/production/uploads/68878d6706afbfff4d788a85/GlStaGyWYgDMLAjU5SfzQ.png
 ---
 🤖 TinyLlama Chatbot API
 
