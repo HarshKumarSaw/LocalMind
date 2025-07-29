@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="thumbnail.png" alt="LocalMind Thumbnail" width="100%" />
+</p>
+
 ---
 sdk: docker
 title: LocalMind
